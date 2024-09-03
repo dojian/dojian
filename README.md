@@ -1,12 +1,17 @@
 ## 👋 Hello, I'm Anne (Dong An) Jian!
-🎓 Master's student in Information and Data
-Science at UC Berkeley.
-💼 Data Science Manager at PayPal — Developed a comprehensive customer analytics framework, applied machine learning techniques, and derived actionable insights using Python and SQL.
-🌱 Passionate about GenerativeAI techniques with or without agents.
-👯 Recently participated in SWE-bench hackathon and won!
-😄 Let us collaborate on future challenges and hackathons!
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anne-dong-jian/)!
+🎓 [Master's student in Information and Data Science at UC Berkeley.]
+
+💼 [Data Science Manager at PayPal — Developed a comprehensive customer analytics framework, applied machine learning techniques, and derived actionable insights using Python and SQL.]
+
+🌱 [Passionate about GenerativeAI techniques with or without agents.]
+
+👯 [Recently participated in SWE-bench hackathon and won!]
+
+😄 [Let us collaborate on future challenges and hackathons!]
+
+📫 [Connect with me on [LinkedIn](https://www.linkedin.com/in/anne-dong-jian/)!]
+
 ⚡ Fun fact: I love traveling and recently enjoyed the Tulum beach in Mexico!
 
 <!--
