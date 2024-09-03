@@ -30,7 +30,6 @@
 ### 🚀 GitHub Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dojian&layout=compact&theme=dark)
 
-### 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
