@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Anne Jian!
+## 👋 Hello, I'm An Jian!
 
 🎓 Master's student in Information and Data Science at UC Berkeley.
 
