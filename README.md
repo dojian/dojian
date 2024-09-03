@@ -38,10 +38,6 @@
 <!--END_SECTION:waka-->
 
 
-To update this dynamically, you can set up the [waka-readme-stats GitHub Action](https://github.com/anmol098/waka-readme-stats).
-
-
-
 
 <!--
 **dojian/dojian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
