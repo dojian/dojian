@@ -26,6 +26,17 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+
+### 📊 This Week I Spent My Time On:
+<!--START_SECTION:waka-->
+```text
+Python       3 hrs 40 mins   ████████████████████████░   93.27 %
+Bash         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+
+<!--END_SECTION:waka-->
+
 <!--
 **dojian/dojian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
