@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Anne (Dong An) Jian!
+## 👋 Hello, I'm Anne Dong Jian!
 
 🎓 Master's student in Information and Data Science at UC Berkeley.
 
