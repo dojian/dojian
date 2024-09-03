@@ -6,7 +6,7 @@
 
 🌱 Passionate about machine learning and Generative AI techniques with or without agents. I worked with structured and unstructured data on a large scale.
 
-👯 Recently participated in SWE-bench hackathon(Event page: https://lu.ma/eye2ec18?tk=jLtE3p) and won!
+👯 **Hackathon**: Recently participated in SWE-bench hackathon(Event page: https://lu.ma/eye2ec18?tk=jLtE3p) and won!
 
 😄 Let us collaborate on future challenges and hackathons!
 
