@@ -37,6 +37,21 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+
+To update this dynamically, you can set up the [waka-readme-stats GitHub Action](https://github.com/anmol098/waka-readme-stats).
+
+### 3. **GitHub Stats**
+
+GitHub stats can be displayed using a GitHub readme stats generator like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+
+```markdown
+### 🔥 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dojian&show_icons=true&theme=dark&count_private=true)
+
+### 🛠️ Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dojian&layout=compact&theme=dark)
+
+
 <!--
 **dojian/dojian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
