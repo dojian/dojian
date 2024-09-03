@@ -28,16 +28,13 @@
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 ### 🚀 GitHub Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark)
 
 
 ### 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
-```text
-Python       3 hrs 40 mins   ████████████████████████░   93.27 %
-Bash         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+
 
 <!--END_SECTION:waka-->
 
