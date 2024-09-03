@@ -45,7 +45,7 @@ To update this dynamically, you can set up the [waka-readme-stats GitHub Action]
 
 GitHub stats can be displayed using a GitHub readme stats generator like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
-```markdown
+
 ### 🔥 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dojian&show_icons=true&theme=dark&count_private=true)
 
