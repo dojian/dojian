@@ -32,13 +32,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 21.4 kB Used in GitHub's Storage 
+> 📦 21.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,18 +73,18 @@ Sunday                   61 commits          █████████░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    5 hrs 23 mins       █████████████████████████   99.99 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    4 hrs 32 mins       █████████████████████████   99.98 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Zoom                     4 hrs 21 mins       ████████████████████░░░░░   80.92 % 
-Notes                    1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Zoom                     3 hrs 30 mins       ███████████████████░░░░░░   77.36 % 
+Notes                    1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 23 mins       █████████████████████████   100.00 % 
+Unknown Project          4 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -101,7 +101,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2024 18:41:43 UTC
+ Last Updated on 14/09/2024 18:39:58 UTC
 <!--END_SECTION:waka-->
 
 
