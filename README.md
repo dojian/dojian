@@ -28,8 +28,7 @@
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 ### 🚀 GitHub Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dojian&layout=compact&theme=dark)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2023%20mins-blue)
@@ -41,8 +40,6 @@
 > 📦 21.6 kB Used in GitHub's Storage 
  > 
 > 🏆 66 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
