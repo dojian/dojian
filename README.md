@@ -33,11 +33,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 94.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 67 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,17 +74,17 @@ Sunday                   64 commits          █████████░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    7 hrs 12 mins       █████████████████████████   100.00 % 
+Other                    5 hrs 29 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notes                    4 hrs 3 mins        ██████████████░░░░░░░░░░░   56.16 % 
-Zoom                     3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.84 % 
+Notes                    4 hrs 3 mins        ██████████████████░░░░░░░   73.70 % 
+Zoom                     1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.30 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 12 mins       █████████████████████████   100.00 % 
+Unknown Project          5 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -99,7 +101,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2024 18:42:12 UTC
+ Last Updated on 18/09/2024 18:42:11 UTC
 <!--END_SECTION:waka-->
 
 
