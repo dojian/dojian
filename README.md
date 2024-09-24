@@ -31,15 +31,13 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 94.5 kB Used in GitHub's Storage 
- > 
-> 🏆 68 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -101,7 +99,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2024 18:42:53 UTC
+ Last Updated on 24/09/2024 18:43:27 UTC
 <!--END_SECTION:waka-->
 
 
