@@ -39,13 +39,11 @@
 
 > 📦 94.5 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 7 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -74,17 +72,17 @@ Sunday                   64 commits          █████████░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    1 hr 5 mins         █████████████████████████   100.00 % 
+Other                    1 hr 34 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zoom                     49 mins             ███████████████████░░░░░░   75.75 % 
-Notes                    15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Zoom                     1 hr 13 mins        ███████████████████░░░░░░   77.79 % 
+Notes                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 5 mins         █████████████████████████   100.00 % 
+Unknown Project          1 hr 34 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -101,7 +99,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2024 18:43:21 UTC
+ Last Updated on 26/09/2024 18:42:41 UTC
 <!--END_SECTION:waka-->
 
 
