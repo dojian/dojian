@@ -74,16 +74,16 @@ Sunday                   100 commits         ███████████�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Notes                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -100,7 +100,7 @@ Python                   5 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2024 19:36:40 UTC
+ Last Updated on 30/12/2024 19:37:28 UTC
 <!--END_SECTION:waka-->
 
 
