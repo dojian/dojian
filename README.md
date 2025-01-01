@@ -39,8 +39,6 @@
 
 > 📦 101.5 kB Used in GitHub's Storage 
  > 
-> 🏆 127 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -100,7 +98,7 @@ Python                   5 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 19:37:01 UTC
+ Last Updated on 01/01/2025 19:37:26 UTC
 <!--END_SECTION:waka-->
 
 
