@@ -33,13 +33,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 101.5 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -90,8 +88,8 @@ Mac                      1 hr 35 mins        ███████████�
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         14 repos            ██████████████████░░░░░░░   73.68 % 
-Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Jupyter Notebook         15 repos            ███████████████████░░░░░░   75.00 % 
+Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
@@ -101,7 +99,7 @@ Python                   5 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2025 19:37:26 UTC
+ Last Updated on 13/01/2025 19:37:47 UTC
 <!--END_SECTION:waka-->
 
 
