@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,17 +74,17 @@ Sunday                   100 commits         ███████████�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    1 hr 26 mins        █████████████████████████   100.00 % 
+Other                    2 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zoom                     1 hr 25 mins        █████████████████████████   98.35 % 
-Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Zoom                     1 hr 58 mins        █████████████████████████   98.81 % 
+Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 26 mins        █████████████████████████   100.00 % 
+Unknown Project          2 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -101,7 +101,7 @@ Python                   5 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2025 19:38:00 UTC
+ Last Updated on 27/01/2025 19:37:55 UTC
 <!--END_SECTION:waka-->
 
 
