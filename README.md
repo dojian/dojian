@@ -31,7 +31,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -74,18 +74,18 @@ Sunday                   118 commits         ███████████�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    2 hrs 20 mins       █████████████████████████   99.95 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    3 hrs 26 mins       █████████████████████████   99.97 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Zoom                     1 hr 34 mins        █████████████████░░░░░░░░   67.30 % 
-Notes                    45 mins             ████████░░░░░░░░░░░░░░░░░   32.70 % 
+Zoom                     1 hr 43 mins        █████████████░░░░░░░░░░░░   50.20 % 
+Notes                    1 hr 42 mins        ████████████░░░░░░░░░░░░░   49.80 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 20 mins       █████████████████████████   100.00 % 
+Unknown Project          3 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -103,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 19:38:00 UTC
+ Last Updated on 20/03/2025 19:38:21 UTC
 <!--END_SECTION:waka-->
 
 
