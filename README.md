@@ -31,7 +31,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -103,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2025 19:37:19 UTC
+ Last Updated on 23/03/2025 19:37:41 UTC
 <!--END_SECTION:waka-->
 
 
