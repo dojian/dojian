@@ -31,13 +31,13 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 131.7 kB Used in GitHub's Storage 
+> 📦 131.8 kB Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2025
  > 
@@ -74,18 +74,18 @@ Sunday                   136 commits         ████████░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    3 hrs 13 mins       ████████████████████████░   97.62 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    3 hrs 1 min         ████████████████████████░   97.48 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-Zoom                     2 hrs 42 mins       ████████████████████░░░░░   82.00 % 
-Notes                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Zoom                     2 hrs 42 mins       ██████████████████████░░░   87.07 % 
+Notes                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 17 mins       █████████████████████████   100.00 % 
+Unknown Project          3 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -103,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2025 19:37:57 UTC
+ Last Updated on 29/03/2025 19:37:26 UTC
 <!--END_SECTION:waka-->
 
 
