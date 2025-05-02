@@ -31,9 +31,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2053%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,45 +45,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-🌆 Daytime                179 commits         ████████░░░░░░░░░░░░░░░░░   30.86 % 
-🌃 Evening                354 commits         ███████████████░░░░░░░░░░   61.03 % 
-🌙 Night                  40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Tuesday                  191 commits         ████████░░░░░░░░░░░░░░░░░   32.93 % 
-Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Thursday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Friday                   10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Sunday                   172 commits         ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -101,7 +60,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 19:38:11 UTC
+ Last Updated on 02/05/2025 19:38:41 UTC
 <!--END_SECTION:waka-->
 
 
