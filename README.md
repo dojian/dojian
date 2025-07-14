@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm An Jian!
 
-🎓 Master's student in Information and Data Science at UC Berkeley.
+🎓 I'm a Master's graduate in Information and Data Science from UC Berkeley, with a focus on AI.
 
 💼 Data Science Manager at PayPal — Developed a comprehensive customer analytics framework, applied machine learning techniques, and provided actionable insights using Python, SQL, and running experiments.
 
