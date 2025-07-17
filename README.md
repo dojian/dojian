@@ -2,7 +2,7 @@
 
 🎓 I'm a Master's graduate in Information and Data Science from UC Berkeley, with a focus on AI.
 
-💼 Data Science Manager at PayPal — Developed a comprehensive customer analytics framework, applied machine learning techniques, and provided actionable insights using Python, SQL, and running experiments.
+💼 AI Engineer Manager at PayPal — Applied research
 
 🌱 Passionate about machine learning and Generative AI techniques with or without agents. I worked with structured and unstructured data on a large scale.
 
