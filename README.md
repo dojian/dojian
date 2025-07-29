@@ -33,13 +33,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 144.6 kB Used in GitHub's Storage 
- > 
-> 🏆 95 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -102,7 +100,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2025 19:41:10 UTC
+ Last Updated on 29/07/2025 19:42:04 UTC
 <!--END_SECTION:waka-->
 
 
