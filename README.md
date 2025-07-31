@@ -11,11 +11,14 @@
 ## 🧠 Featured Project
 
 - **[GenZen: AI-powered mental health assistant](https://www.ischool.berkeley.edu/projects/2025/genzen)**  
-  Built and deployed an AI-powered mental health assistant using fine-tuned LLMs and contextual RAG, focused on real-time, emotionally resonant support.
+  Built and deployed an AI-powered mental health assistant using fine-tuned LLMs and contextual RAG, focused on real-time, emotionally resonant support.      
+  Led the development of an agentic mental-health assistant with a suicide detection agent, a mental health expert agent, and a RAG agent.    
+  Fine-tuned the mental health expert agent with mental health counseling conversations.    
+  Evaluated the model on empathy, appropriateness, and relevance.    
 
 - **[QuantAlpha: AI-powered Investment Advisor (Hackathon Project)](https://v0-quant-alpha-investment-app.vercel.app/)**  
-  Built and deployed an AI-powered mental health assistant using fine-tuned LLMs and contextual RAG, focused on real-time, emotionally resonant support.
-
+  Built an AI system to analyze real-time market news, earnings calls, and financial reports using LLMs and NLP
+  pipelines, generating intelligent portfolio allocation strategies with interpretable recommendations.      
 
 😄 Let us collaborate on future challenges and hackathons!
 
