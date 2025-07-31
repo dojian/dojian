@@ -8,6 +8,15 @@
 
 👯 **Hackathon**: Recently won SWE-bench hackathon! (Event page: https://lu.ma/eye2ec18?tk=jLtE3p)
 
+## 🧠 Featured Project
+
+- **[GenZen: AI-powered mental health assistant](https://www.ischool.berkeley.edu/projects/2025/genzen)**  
+  Built and deployed an AI-powered mental health assistant using fine-tuned LLMs and contextual RAG, focused on real-time, emotionally resonant support.
+
+- **[QuantAlpha: AI-powered Investment Advisor (Hackathon Project)](https://v0-quant-alpha-investment-app.vercel.app/)**  
+  Built and deployed an AI-powered mental health assistant using fine-tuned LLMs and contextual RAG, focused on real-time, emotionally resonant support.
+
+
 😄 Let us collaborate on future challenges and hackathons!
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anne-dong-jian/)!
