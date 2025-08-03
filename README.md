@@ -51,8 +51,6 @@
 
 > 📦 144.6 kB Used in GitHub's Storage 
  > 
-> 🏆 97 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -114,7 +112,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 19:40:11 UTC
+ Last Updated on 03/08/2025 19:39:54 UTC
 <!--END_SECTION:waka-->
 
 
