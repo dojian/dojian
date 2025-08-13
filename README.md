@@ -43,7 +43,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -86,17 +86,17 @@ Sunday                   192 commits         ███████░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    1 hr 6 mins         █████████████████████████   100.00 % 
+Other                    1 hr 3 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notes                    53 mins             ████████████████████░░░░░   80.95 % 
-Zoom                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Notes                    50 mins             ████████████████████░░░░░   80.21 % 
+Zoom                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 6 mins         █████████████████████████   100.00 % 
+Unknown Project          1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -115,7 +115,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2025 19:39:28 UTC
+ Last Updated on 13/08/2025 19:39:30 UTC
 <!--END_SECTION:waka-->
 
 
