@@ -43,13 +43,15 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 144.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 97 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -112,7 +114,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 19:38:09 UTC
+ Last Updated on 17/08/2025 19:38:17 UTC
 <!--END_SECTION:waka-->
 
 
