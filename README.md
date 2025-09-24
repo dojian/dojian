@@ -43,7 +43,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2042%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,6 +59,45 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+🌆 Daytime                230 commits         █████████░░░░░░░░░░░░░░░░   34.28 % 
+🌃 Evening                387 commits         ██████████████░░░░░░░░░░░   57.68 % 
+🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Tuesday                  197 commits         ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+Wednesday                33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Thursday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Saturday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Sunday                   192 commits         ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Other                    31 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Notes                    31 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          31 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      31 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -73,7 +114,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 19:38:19 UTC
+ Last Updated on 24/09/2025 19:38:08 UTC
 <!--END_SECTION:waka-->
 
 
