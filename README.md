@@ -43,6 +43,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dojian&theme=dark)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2011%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -57,6 +59,45 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+🌆 Daytime                232 commits         █████████░░░░░░░░░░░░░░░░   34.42 % 
+🌃 Evening                387 commits         ██████████████░░░░░░░░░░░   57.42 % 
+🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Tuesday                  197 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+Wednesday                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Thursday                 49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Saturday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Sunday                   192 commits         ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Other                    34 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Notes                    34 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          34 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      34 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -73,7 +114,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dojian/dojian/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 19:37:59 UTC
+ Last Updated on 04/10/2025 19:37:42 UTC
 <!--END_SECTION:waka-->
 
 
